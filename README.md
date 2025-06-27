@@ -1,6 +1,11 @@
 # Flux Workshop - Nerdearla 2023
 
-Este repo es complementario al workshop **Introducción a GitOps con Flux**, dado en la [Introducción a GitOps con Flux](https://app.swapcard.com/event/nerdearla-2023).
+Este repo es complementario al workshop **Introducción a GitOps con Flux**, dado en [Nerdearla 2023](https://app.swapcard.com/event/nerdearla-2023/planning/UGxhbm5pbmdfMTUzNjY1NQ==).
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=EWofHnNngoc"><img src="https://img.youtube.com/vi/EWofHnNngoc/0.jpg" alt="Imagen de la charla Introducción a Gitops con Flux, Nerdearla 2023"></a>
+</div>
+
 
 ## Requisitos
 
