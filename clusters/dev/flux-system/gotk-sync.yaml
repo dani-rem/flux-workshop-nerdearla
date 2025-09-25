@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/marcorichetta/flux-workshop-nerdearla
+  url: ssh://git@github.com/dani-rem/flux-workshop-nerdearla
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
