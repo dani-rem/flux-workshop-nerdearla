@@ -4,7 +4,7 @@ metadata:
   name: frontend
   namespace: podinfo
 spec:
-  replicas: 3
+  replicas: 1
   minReadySeconds: 3
   revisionHistoryLimit: 5
   progressDeadlineSeconds: 60
